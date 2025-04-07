@@ -1,6 +1,6 @@
-## Submission of BEELEC1-EG1 Group 2 Final Project:
 # Enhancing Brain Tumor Detection: A Comparative Study of CT and MRI Scans Using Machine Learning Techniques
 
+Brain tumors are a major global health concern; thus, early and accurate detection is crucial for effective treatment and improved patient survival rates. Recently, machine learning (ML), particularly convolutional neural networks (CNNs), has shown promising results in brain tumor classification. However, the difference in imaging modalities, particularly computed tomography (CT) and magnetic resonance imaging (MRI), may influence the performance of CNN models. In line with this, the present study investigates the comparative efficacy of CT and MRI scans in brain tumor classification using CNN. Specifically, three models are used: widely used MobileNetV2, a novel architecture adapted from a previously published study, and a custom-designed architecture. All models are individually trained and evaluated using a preprocessed dataset of CT and MRI images. Key metrics, including accuracy, precision, recall, and F1-scores, and a confusion matrix are used to evaluate the performance of each model.
 
 #### Main Reference:
 
